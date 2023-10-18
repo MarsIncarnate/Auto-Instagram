@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "insta-automation-398800",
+  "private_key_id": "fafc4f22d42875870a1405c9e46e552c241e2bba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDf8LwxrLBzVlFr\nVfhW85YNJAPkiLG/OnyWiA0xtjjVQLAKXnxNP8DVRQInJRgDdx/Bd/46xtTXNjmu\naolKeu/8RZauwqRfuja8+n0gr3Nssss8vWDn2Gk3ZG9QUO8f2BU3sP1/y4I5JGOd\n3zt6i+AE3p0NBGuUz5OKIlWJYFzq9ayVooaoQ3kK676WuQj0eXB7DCmHQ2ZtgU/+\nCaeAUSUszNR6ePxRyjbHQOh8DUU+IUIreWxTagcFsukLOcuzSix7yziT7SzXCV/S\nGThMYAIEoD4RW+FlrxW+OxiUoJ25N7OEx8wykiO4BTevPitYs6CTkfZLe+PfA7v1\nJMqlKnfxAgMBAAECggEACRogEBXQizOSNh5lrGUUr36MAPU0Yk0mhLjNbnyVVUee\nkCFUhJBHjnOSWZR2pCdqnUK7DNkJjCDKWeY/I82Y5QRQElTbeP+Y23gD73jqJFwl\nChg5cNr5NdTpeFZ9zanK/Ps+5nuXVKq/uMo6wOmgBpqkwANyuvbv7ICmQOHvjOYx\na3y3IdBMg2JlVmEQa4HRslVKyXyg0T5Va6ZydKrgDaw/kM+So+88fKzE/3mnNFnG\nHm+RmpRL3UuvqykMjewZQR3I72cCdnVKjLc7BuItcQ2u+qfxiyZi65gVAofwdhMX\nikEyUwxCSFZs5EdCNTwnzqpJoT7LJHYYUxKdMeykBQKBgQD7lLEX1L0hCR4dQ2np\nGrIcUsTUgf3lNpRm59S/7tA6GTfbVpAaGZxlu7L17/Rqg9qMKH5fyy3MMN00Q4ZQ\n/eM5GRJUEgxz+kEtw0nu5W0SsOKxodUyFdPiWJlX/hZPX6NYT7PK9yp/mCY6hHrP\nZR0X6GIfYmX/Lzsgorijncn1vQKBgQDj37/zi221nq33XHLSn5aJKy/YzUxlI+HR\nkQquInJD2VZWegfVjpC3XpzZ5ZSYs/vAfbBY8g59Oy6PDK8DioAjJzq5xUbe7FOe\niSwycjKY6Aro+ezG/ixzbczxCcZxz7YsnHDDPqoXDpOAFzcefi9J9AypIyPveVde\nEBeBlIXsRQKBgQD7IrIplN77NEvQcHQwEssLhQAhFmZpwjMgCnqQ4gcQiA3/MQkG\nVNyPnXAHG3KERX0LfnywiXT9KSYXvvQ8s0R4wfNO4vl1aLJZyWFrTbC1AMg7A857\ngdiSUVk5wlVpBJJdXKqgiFzvI+W9cnPZxhjlvb79j088DlzatjTUd3WcjQKBgBBJ\nUaLKeFDewnhHdz1ugofTOlw4cBlacy1TPHwtohUPV4heuGifA+DXNkasje5MDtY3\nJX917Wst66n1shyCrZ3Vk/DrFKGiKmfOTgZc+xjKnN0B39ZpHCwz0M35cOF5gv+1\nPqn1tJppREmHXz0ir6aNdsov5MWc2o2ygLuWLewxAoGAO4o8jYvNOv38shFdZZ69\nmQXeV62KAl8YY/+4erETQ0GgTMVbe37sv1Po1vkntG/i/XPjb7yNX4onQqj4n8H+\nApR81FrbqCS0mc77jsk8jQoqb7Kg3y8LxIYeGDuhbQrzvhz2RRhbKnL7DC89kzyf\nqhKJWX6V30ZL8EPRUyRs5jk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "instagram-automation@insta-automation-398800.iam.gserviceaccount.com",
+  "client_id": "112997347345193446459",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/instagram-automation%40insta-automation-398800.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

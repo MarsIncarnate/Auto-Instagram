@@ -1,0 +1,17 @@
+2023-09-19 03:28:34,415 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2023-09-19 03:28:34,417 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\USER\AppData\Local\Programs\Python\Python311\Lib\site-packages\instabot\bot\bot.py
+2023-09-19 03:28:34,431 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2023-09-19 03:28:34,431 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2023-09-19 03:28:34,433 - instabot version: 0.117.0 (api_login) - INFO - Recovery from C:\Users\USER\Insta Auto/config/mars_reloaded_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=4857c8f2-872d-4348-a192-a8c6bd4cdcda
+- uuid=ad1cc929-99de-40e3-a46e-8a6510d3141f
+- client_session_id=065141a7-f1bf-4d55-aaf9-46216312f82c
+- device_id=android-bcb988c7dfcbf375
+2023-09-19 03:28:34,439 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2023-09-19 03:28:37,625 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2023-09-19 03:28:43,003 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2023-09-19 03:28:43,010 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'mars_reloaded'!
+2023-09-19 03:28:43,011 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: C:\Users\USER\Insta Auto/config/mars_reloaded.checkpoint
+2023-09-19 03:29:30,705 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: C:\Users\USER\Insta Auto/config/mars_reloaded.checkpoint
+2023-09-19 03:29:30,705 - instabot version: 0.117.0 (bot) - INFO - Total requests: 37

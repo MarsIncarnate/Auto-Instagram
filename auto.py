@@ -13,11 +13,11 @@ app = Flask(__name__)
 @app.route('/')
 def my_function():
     try:
-        # Path to your JSON key file (service account key)
-        KEY_FILE = 'insta-automation-398800-fafc4f22d428.json'
+        # Path to JSON key file (service account key)
+        KEY_FILE = os.environ.get('JSON_KEY')
 
         # ID of the Excel file in Google Drive
-        FILE_ID = '1UzKTXocecCC6C-xMNqViRB8KH9pSDrv3sP06pUmsfpo'
+        FILE_ID = os.environ.get('EXCEL_ID')
 
         # Output file name for downloaded Excel file
         OUTPUT_FILE = 'downloaded_list.xlsx'
@@ -106,7 +106,7 @@ def my_function():
         # Now, you can use 'destination_path' to reference the downloaded image in your bot.
 
         bot = Bot()
-        bot.login(username="mars_reloaded", password="profaim", is_threaded=True)
+        bot.login(username=os.environ.get('INSTA_USER'), password=os.environ.get('INSTA_PASS'), is_threaded=True)
 
         CAPTION = column_b_values[lpi]
 
